@@ -26,6 +26,21 @@ def circ_point(x, y, cx, cy):
     glVertex2f(-x + cx, y + cy)
 
 
+print("onek kaaj")
+print("onek kaaj")
+print("onek kaaj")
+print("onek kaaj")
+print("onek kaaj")
+print("onek kaaj")
+
+
+
+
+
+
+
+
+
 
 # calls circ_point and draws the circle acc to given values
 def mid_circle(cx, cy, radius):
